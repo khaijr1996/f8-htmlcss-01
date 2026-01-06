@@ -60,9 +60,9 @@ opacity:0.9;
     top:-26px;
     z-index:1;
 }
-.header{
+.hero-wrap{
     background:#E6F0FF;
-    height:100vh;
+    height:calc(100vh - 90px);
     position:relative;
     
 
